@@ -20,18 +20,19 @@ The process of the workflow is as follows:
 # Data Sources
 * FEMA National Risk Index
 * CDC Soacial Vulnerability Index
-* US shapefiles
+* US shapefiles found here - https://uofnebraska-my.sharepoint.com/personal/37381171_nebraska_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F37381171%5Fnebraska%5Fedu%2FDocuments%2FTeaching%2FCIVE%20202%2FSpring%202026%2FProject%20%234%2FSHP%20by%20State%2FStudent%20Shape%20Files&ga=1 
 
 
 # How to Run the Notebook
 1. Download the .ipynb located int he repository
 2. Make sure all data files are downloaded adn stored in the same folder
-3. Open notebook adn run all cells from top to bottom
-4. As you will see, the notebook will have all loaded datasets as well as the clenaed ones
-5.   An alternative risk defention
-6.   County Level bar charts
-7.   Census tract maps
-8.   Exports
+3. DOwnload the shapfile listed in the data sources above in order to run the Census tract maps
+4. Open notebook adn run all cells from top to bottom
+5. As you will see, the notebook will have all loaded datasets as well as the clenaed ones
+6.   An alternative risk defention
+7.   County Level bar charts
+8.   Census tract maps
+9.   Exports
 
 # Alternative Risk Defenition
 Our alternative risk defeniton was defines as Risk ($) = EAL_VALT × RPL_THEMES × (1 – (RESL_SCORE)/100)
